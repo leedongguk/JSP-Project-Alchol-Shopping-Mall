@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/Menubar.jsp=UTF-8
+encoding//WebContent/footer.jsp=UTF-8
+encoding//WebContent/login_failed.jsp=UTF-8
+encoding//WebContent/mark.jsp=UTF-8
+encoding//WebContent/slide.jsp=UTF-8
+encoding//src/dao/AlcholRepository.java=UTF-8
+encoding//src/mvc/model/BoardDAO.java=UTF-8
