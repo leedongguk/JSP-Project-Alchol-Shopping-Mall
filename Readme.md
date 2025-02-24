@@ -32,3 +32,9 @@
 ![4](https://github.com/leedongguk/JSP-Project-Alchol-Shopping-Mall/assets/39736916/77b44bd5-eb4a-4e18-b70e-17e65fea6030)
 <br style="margin-top:30px;"/>
 ![1](https://github.com/leedongguk/JSP-Project-Alchol-Shopping-Mall/assets/39736916/7431ea1a-5f43-475f-b36d-41db8a2ce4f8)
+
+## 💁‍♂️ 프로젝트 팀원
+|Backend/Frontend|
+|:---:|
+| ![](https://avatars.githubusercontent.com/u/39736916?v=4)
+|[이동국](https://github.com/leedongguk)
